@@ -22,6 +22,7 @@ A simple digital business card app with clean UI.
 [🔗 View on GitHub »](https://github.com/saiask1k/flutter-business-card)
 
 ---
+[![An image of @saiasok1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saiasok1)](https://holopin.io/@saiasok1)
 
 ### 📫 Let's Connect!
 
